@@ -17,7 +17,7 @@ A full-stack web application for managing a ride-sharing database system with cu
 - [Project Structure](#project-structure)
 - [Troubleshooting](#troubleshooting)
 - [Technologies Used](#technologies-used)
-
+ 
 ## 🎯 Overview
 
 This application provides a comprehensive web interface for managing a ride-sharing database. It implements full CRUD (Create, Read, Update, Delete) operations for all entities and includes advanced reporting capabilities with aggregated queries. The database schema is normalized to Boyce-Codd Normal Form (BCNF) ensuring data integrity and eliminating redundancy.
