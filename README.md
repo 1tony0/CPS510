@@ -1,5 +1,5 @@
 # Ride & Pickup DBMS Web Application
-
+ 
 A full-stack web application for managing a ride-sharing database system with customers, drivers, vehicles, locations, rides, payments, and ratings. Built with React frontend, Python Flask backend, and Oracle Database.
 
 ## 📋 Table of Contents
